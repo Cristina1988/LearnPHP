@@ -1,0 +1,77 @@
+1. Alegem un editor ex: Notepad++, dam pe File-Newfile-ii dam un nume ex: Index.php,
+  dam save as si alegem All types. Apasam Save si fisierul este salvat. Il
+putem deschide cu visual studio sau alt editor de cod. Putem crea si direct intr-un
+editor de cod, new folder si in acel folder new file cu nume.php.
+
+2. O variabila este un container in care stocam o valoare, acea valoare este 
+reprezentata prin numele variabilei. 
+
+3. Putem adauga comentarii pe o singura linie folosind //
+sau pe mai multe linii folosind /*sfgjsdgd
+      ghdkjhdh
+             ghd */
+
+4. Simbolul ( . ) este un operator de concatenare-unirea stringurilor.
+
+5. Dupa terminarea unei linii de cod se pune ;
+
+6. De obicei ghilimelele simple si duble sunt folosite pentru a declara tipul
+string.
+
+7. Primul echo cred ca afiseaza 30, dar am pus in editor si imi da 301 
+cred ca din cauza ca sunt folosite echo si print impreuna.
+  Al doilea echo cred ca ar afisa 40, dar vad ca imi da altceva. 
+8. Echo este folosit peentru a afisa rezultatul.
+
+9. Print este folosit pentru a afisa rezultatul. Una dintre ele este mai rapida
+cred ca echo.
+
+10. Un array indexat este un sir de date, care se poate identifica printr-un index
+Indexarea incepe cu 0.
+Array asociativ este acel sir de date care are cheie si valoare, 
+iar array-ul multidimensional este un sir de date care poate contine date si 
+alte siruri de date.
+
+11. $lista = ['ciocolata'][3];
+
+12. O sa afiseze 1000 pentru ca pow e ridicare la putere, 10 la 2=100 si 30 la 2
+=900. 900+100=1000.
+   Incepem cu parantezele, o sa afiseze 0, sau ca nu se face impartirea la 0. Orice
+numar inmultit cu 0 ne da 0.
+
+13. Float sunt numerele cu virgula.
+
+14. Int sunt numerele intregi-integer.
+
+15 number_format
+
+16 var_dump
+
+17 anuleaza o valoare declarata
+
+18 verifica daca variabila are setata o valoare sau este goala.
+
+19 < mai mic,   mai mare > 
+
+20 != nu este egal, !== nu este la fel, === este identic, == este egal, <=>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
